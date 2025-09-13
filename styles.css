@@ -1,0 +1,9 @@
+ul {
+    line-height: 80%;
+    list-style-type: square;
+}
+
+ol {
+    line-height: 80%;
+    type: a;
+}
